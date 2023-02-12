@@ -1,5 +1,4 @@
 import React from 'react'
-import './hero.scss'
 import Wedding1 from "../img/decoration.jpg";
 import Wedding2 from "../img/wedding1.jpg";
 import Wedding3 from "../img/wedding4.jpeg";
@@ -27,7 +26,7 @@ const Main = () => {
         <div class=" sm:hidden box Hero-Right">
             <img className='img1' src={Wedding1} alt="dd" />
             <img className='img2' src={Wedding2} alt="dd" />
-            <img className='img3' src={Wedding3} alt="dd" />
+            <img className='img3 sm:hidden xl:block' src={Wedding3} alt="dd" />
         </div>
     </div>
   )
