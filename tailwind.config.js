@@ -4,12 +4,14 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    fontFamily: {
+      'fontMain':['Playfair Display'],
+    },
     extend: {
       colors: {
-        'primary': '#391C05',
-        'secondary': '#A99E93',
+        'primary': '#391A04',
+        'secondary': '#A19588',
         'third': '#982628'
-
       }
     },
   },
