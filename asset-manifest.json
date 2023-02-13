@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Wedding-Mock-Up/static/css/main.bdd519b0.css",
+    "main.js": "/Wedding-Mock-Up/static/js/main.236893b7.js",
+    "static/js/787.4ff3cea1.chunk.js": "/Wedding-Mock-Up/static/js/787.4ff3cea1.chunk.js",
+    "static/media/decoration.jpg": "/Wedding-Mock-Up/static/media/decoration.da76be696cbfb3e42c05.jpg",
+    "static/media/wedding1.jpg": "/Wedding-Mock-Up/static/media/wedding1.0b3489dd676e39ae749d.jpg",
+    "static/media/wedding4.jpeg": "/Wedding-Mock-Up/static/media/wedding4.be93972baf3eb37ed9be.jpeg",
+    "static/media/icon.png": "/Wedding-Mock-Up/static/media/icon.7ef11ea5fc16bbb47364.png",
+    "index.html": "/Wedding-Mock-Up/index.html",
+    "main.bdd519b0.css.map": "/Wedding-Mock-Up/static/css/main.bdd519b0.css.map",
+    "main.236893b7.js.map": "/Wedding-Mock-Up/static/js/main.236893b7.js.map",
+    "787.4ff3cea1.chunk.js.map": "/Wedding-Mock-Up/static/js/787.4ff3cea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd519b0.css",
+    "static/js/main.236893b7.js"
+  ]
+}
