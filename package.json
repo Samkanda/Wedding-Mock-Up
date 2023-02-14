@@ -1,6 +1,7 @@
 {
   "name": "wedding",
   "version": "0.1.0",
+  "homepage": "https://samkanda.github.io/Wedding-Mock-Up",
   "private": true,
   "dependencies": {
     "@craco/craco": "^7.0.0",
@@ -15,9 +16,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -39,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.2.4"
   }
 }
